@@ -43,5 +43,6 @@
   },
   "devDependencies": {
     "netlify-cli": "^2.69.11"
-  }
+  },
+  "heroku-run-build-script": true
 }
