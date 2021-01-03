@@ -1,3 +1,6 @@
+A TikTok Web Clone following the Tutorial here - https://www.youtube.com/watch?v=IATOicvih5A
+I enjoy following along with these to help my coding skills
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
