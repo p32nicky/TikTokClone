@@ -29,11 +29,11 @@ const Card = ({ user, toggleFollow }) => {
           <source src={user.video} type="video/mp4" />
         </video>
         <div className="section socials">
-           <i class="far fa-heart"></i>
+           <i class="fa fa-heart"></i>
           <div className="social-tag">{user.likes}</div>
-          <i class="far fa-comment-dots"></i>
+          <i class="fa fa-comments-o"></i>
           <div className="social-tag">{user.comments}</div>
-          <i class="far fa-share-square"></i>
+          <i class="fa fa-share-square"></i>
         </div>
     </div>
   )
