@@ -29,12 +29,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-const PORT = process.env.PORT || 8888
-app.listen(PORT, function(err) {
-  if (err) {
-    console.error(err)
-  } else {
-    console.log(`Running on port ${PORT}`)
-}
-}
