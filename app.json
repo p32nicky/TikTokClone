@@ -1,0 +1,8 @@
+{
+    "name":"NickTikTokClone",
+    "description":"Nick Tik Tok Clone",
+    "repository":"https://github.com/p32nicky/TikTokClone",
+    "logo":"https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg",
+    "keywords":["node","express","tiktok"],
+    "image":"heroku/nodejs"
+  }
