@@ -1,3 +1,14 @@
+# A TikTok Web Clone following the Tutorial here 
+https://www.youtube.com/watch?v=IATOicvih5A
+I enjoy following along with these to help improve my coding skills.
+Needs an ENV file for Astra DB. ASTRA_DV_ID, ASTRA_DV_REGION, ASTRA_DV_USERNAME, ASTRA_DV_KEYSPACE, ASTRA_DV_PASSWORD.
+
+# fill out the .env file
+Fill this out by signing up to DataStax and getting the information you need as per the .env.sample template.
+
+# netlify dev
+This will run as if you deployed your app onto Netlify (but in dev mode). It will also use your .env content.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
